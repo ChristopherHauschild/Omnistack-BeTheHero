@@ -1,11 +1,12 @@
-<p align="center">
-<img src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.jpeg?raw=true">
-</p>
-
-<hr>
 # Semana OmniStack 11.0 💻
 
 Desenvolvido durante a Semana OmniStack 11.0 da Rocket Seat, o projeto tem como o base o densenvolvimento em React e Node.js, e trata-se de um aplicativo web/mobile para o contato de ONG's com doadores.
+
+<hr>
+
+<p align="center">
+<img src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.jpeg?raw=true">
+</p>
 
 #### Linguagens e Tecnologias utilizadas 🚀
 - HTML, CSS e JavaScript
