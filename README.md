@@ -1,13 +1,14 @@
+<p text-align="center">
+![Logo Be The Hero!](https://github.com/HBeserra/OmniStack-11/raw/master/logo.png)
+</p>
 
-![enter image description here](https://github.com/HBeserra/OmniStack-11/raw/master/logo.png)
-
+<hr>
 # Semana OmniStack 11.0 💻
-#### [RocketSeat.com.br](https://rocketseat.com.br/)
 
+Desenvolvido durante a Semana OmniStack 11.0 da Rocket Seat, o projeto tem como o base o densenvolvimento em React e Node.js, e trata-se de um aplicativo web/mobile para o contato de ONG's com doadores.
 
-O Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objetivo de construir um aplicativo para o contato de ONG's com doadores.
-
-#### Tecnologias utilizadas 🚀
+#### Linguagens e Tecnologias utilizadas 🚀
+- HTML, CSS e JavaScript
 - Node.js - Backend
 - React - Frontend web
 - React Native / Expo - Mobile
@@ -36,5 +37,9 @@ Para executar esse repositório primeiramente baixe os arquivos desse repositór
 - `$ npm start` irá iniciar o servidor de desenvolvimento do Expo. 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+Para maiores informações sobre a Rocket Seat, acesse este <a href="https://rocketseat.com.br/">link</a>
+
+<hr>
+
+Desenvolvido com horas a frente do :computer: por Christopher H. Schott
 
