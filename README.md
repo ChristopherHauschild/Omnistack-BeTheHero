@@ -1,5 +1,5 @@
 <p text-align="center">
-![Logo Be The Hero!](https://github.com/HBeserra/OmniStack-11/raw/master/logo.png)
+<img src="https://www.sprone.tech/static/media/logo.7eea718b.svg">
 </p>
 
 <hr>
