@@ -8,7 +8,7 @@ Desenvolvido durante a Semana OmniStack 11.0 da Rocket Seat, o projeto tem como 
 <img src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.jpeg?raw=true">
 </p>
 
-### Linguagens e Tecnologias utilizadas 🚀
+## Linguagens e Tecnologias utilizadas 🚀
 - HTML, CSS e JavaScript
 - Node.js - Backend
 - React - Frontend web
