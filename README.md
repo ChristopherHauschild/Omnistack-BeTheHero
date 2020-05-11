@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.sprone.tech/static/media/logo.7eea718b.svg">
+<img src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.png?raw=true">
 </p>
 
 <hr>
