@@ -1,4 +1,4 @@
-<p text-align: center>
+<p align="center">
 <img src="https://www.sprone.tech/static/media/logo.7eea718b.svg">
 </p>
 
