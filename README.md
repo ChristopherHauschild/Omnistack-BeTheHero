@@ -1,4 +1,4 @@
-# Semana OmniStack 11.0 💻
+# Semana OmniStack 11.0 
 
 Desenvolvido durante a Semana OmniStack 11.0 da Rocket Seat, o projeto tem como o base o densenvolvimento em React e Node.js, e trata-se de um aplicativo web/mobile para o contato de ONG's com doadores.
 
