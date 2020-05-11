@@ -38,7 +38,7 @@ Para executar esse repositório primeiramente baixe os arquivos desse repositór
 - `$ npm start` irá iniciar o servidor de desenvolvimento do Expo. 
 
 
-Para maiores informações sobre a Rocket Seat, acesse este <a href="https://rocketseat.com.br/">link</a>
+### Para maiores informações sobre a Rocket Seat, acesse este <a href="https://rocketseat.com.br/">link</a>
 
 <hr>
 
