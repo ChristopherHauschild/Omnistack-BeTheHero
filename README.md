@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.png?raw=true">
+<img width="100px" src="https://github.com/ChristopherHauschild/Omnistack-BeTheHero/blob/master/bth.png?raw=true">
 </p>
 
 <hr>
